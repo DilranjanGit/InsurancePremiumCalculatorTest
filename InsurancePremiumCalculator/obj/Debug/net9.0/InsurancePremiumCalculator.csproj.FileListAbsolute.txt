@@ -930,3 +930,4 @@ C:\Dilranjan\OneDrive - Capgemini\Source Code\InsurancePremiumCalculatorTest\Ins
 C:\Dilranjan\OneDrive - Capgemini\Source Code\InsurancePremiumCalculatorTest\InsurancePremiumCalculator\obj\Debug\net9.0\InsurancePremiumCalculator.pdb
 C:\Dilranjan\OneDrive - Capgemini\Source Code\InsurancePremiumCalculatorTest\InsurancePremiumCalculator\obj\Debug\net9.0\InsurancePremiumCalculator.genruntimeconfig.cache
 C:\Dilranjan\OneDrive - Capgemini\Source Code\InsurancePremiumCalculatorTest\InsurancePremiumCalculator\obj\Debug\net9.0\ref\InsurancePremiumCalculator.dll
+C:\Dilranjan\OneDrive - Capgemini\Source Code\InsurancePremiumCalculatorTest\insurancepremiumcalculator\obj\Debug\net9.0\InsurancePremiumCalculator.sourcelink.json

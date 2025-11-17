@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj": {}
+    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj": {
+    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj",
+        "projectUniqueName": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj",
         "projectName": "InsurancePremiumCalculator",
-        "projectPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj",
+        "projectPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj",
         "packagesPath": "C:\\Users\\dkumarsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\obj\\",
+        "outputPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dkumarsi\\AppData\\Roaming\\NuGet\\NuGet.Config"
