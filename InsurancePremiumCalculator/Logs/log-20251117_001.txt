@@ -1,0 +1,127 @@
+2025-11-17 13:43:06 [Information] User profile is available. Using '"C:\Users\dkumarsi\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-17 13:43:06 [Warning] The WebRootPath was not found: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator\wwwroot". Static files may be unavailable.
+2025-11-17 13:43:06 [Information] Now listening on: "http://localhost:5000"
+2025-11-17 13:43:06 [Information] Application started. Press Ctrl+C to shut down.
+2025-11-17 13:43:06 [Information] Hosting environment: "Production"
+2025-11-17 13:43:06 [Information] Content root path: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator"
+2025-11-17 13:43:28 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5000""""/Premium/Index""" - null null
+2025-11-17 13:43:28 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:43:28 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 13:43:28 [Information] Executing ViewResult, running view "Index".
+2025-11-17 13:43:29 [Information] Executed ViewResult - view "Index" executed in 118.707ms.
+2025-11-17 13:43:29 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 184.8368ms
+2025-11-17 13:43:29 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:43:29 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 272.1808ms
+2025-11-17 13:45:24 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 13:45:24 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:24 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 13:45:24 [Warning] Invalid input received.
+2025-11-17 13:45:24 [Information] Executing ViewResult, running view "Index".
+2025-11-17 13:45:24 [Information] Executed ViewResult - view "Index" executed in 7.513ms.
+2025-11-17 13:45:24 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 34.0414ms
+2025-11-17 13:45:24 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:24 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 50.3929ms
+2025-11-17 13:45:25 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 13:45:25 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:25 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 13:45:25 [Warning] Invalid input received.
+2025-11-17 13:45:25 [Information] Executing ViewResult, running view "Index".
+2025-11-17 13:45:25 [Information] Executed ViewResult - view "Index" executed in 2.1637ms.
+2025-11-17 13:45:25 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 6.3131ms
+2025-11-17 13:45:25 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:25 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 8.7204ms
+2025-11-17 13:45:31 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 13:45:31 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:31 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 13:45:31 [Warning] Invalid input received.
+2025-11-17 13:45:31 [Information] Executing ViewResult, running view "Index".
+2025-11-17 13:45:31 [Information] Executed ViewResult - view "Index" executed in 0.6391ms.
+2025-11-17 13:45:31 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 1.8755ms
+2025-11-17 13:45:31 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:31 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 3.3735ms
+2025-11-17 13:45:35 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 13:45:35 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:35 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 13:45:35 [Warning] Invalid input received.
+2025-11-17 13:45:35 [Information] Executing ViewResult, running view "Index".
+2025-11-17 13:45:35 [Information] Executed ViewResult - view "Index" executed in 0.5363ms.
+2025-11-17 13:45:35 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 1.4795ms
+2025-11-17 13:45:35 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:35 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 2.5639ms
+2025-11-17 13:45:36 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 13:45:36 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:36 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 13:45:36 [Warning] Invalid input received.
+2025-11-17 13:45:36 [Information] Executing ViewResult, running view "Index".
+2025-11-17 13:45:36 [Information] Executed ViewResult - view "Index" executed in 1.1245ms.
+2025-11-17 13:45:36 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 2.2117ms
+2025-11-17 13:45:36 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:36 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 3.2863ms
+2025-11-17 13:45:41 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 99
+2025-11-17 13:45:41 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:41 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 13:45:41 [Information] Calculating premium for "Rakesh"
+2025-11-17 13:45:41 [Information] Premium calculated: 57600.0
+2025-11-17 13:45:41 [Information] Executing ViewResult, running view "Index".
+2025-11-17 13:45:41 [Information] Executed ViewResult - view "Index" executed in 5.3486ms.
+2025-11-17 13:45:41 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 13.7824ms
+2025-11-17 13:45:41 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 13:45:41 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 15.1891ms
+2025-11-17 13:52:30 [Information] Application is shutting down...
+2025-11-17 14:04:43 [Information] User profile is available. Using '"C:\Users\dkumarsi\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-17 14:04:43 [Warning] The WebRootPath was not found: "C:\Dilranjan\OneDrive - Capgemini\Source Code\InsurancePremiumCalculatorTest\InsurancePremiumcalculator\wwwroot". Static files may be unavailable.
+2025-11-17 14:04:43 [Information] Now listening on: "http://localhost:5000"
+2025-11-17 14:04:43 [Information] Application started. Press Ctrl+C to shut down.
+2025-11-17 14:04:43 [Information] Hosting environment: "Production"
+2025-11-17 14:04:43 [Information] Content root path: "C:\Dilranjan\OneDrive - Capgemini\Source Code\InsurancePremiumCalculatorTest\InsurancePremiumcalculator"
+2025-11-17 14:05:32 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 99
+2025-11-17 14:05:32 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:32 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 14:05:32 [Information] Calculating premium for "Rakesh"
+2025-11-17 14:05:32 [Information] Premium calculated: 57600.0
+2025-11-17 14:05:32 [Information] Executing ViewResult, running view "Index".
+2025-11-17 14:05:32 [Information] Executed ViewResult - view "Index" executed in 67.1946ms.
+2025-11-17 14:05:32 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 162.5272ms
+2025-11-17 14:05:32 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:32 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 223.4141ms
+2025-11-17 14:05:35 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 99
+2025-11-17 14:05:35 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:35 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 14:05:35 [Information] Calculating premium for "Rakesh"
+2025-11-17 14:05:35 [Information] Premium calculated: 57600.0
+2025-11-17 14:05:35 [Information] Executing ViewResult, running view "Index".
+2025-11-17 14:05:35 [Information] Executed ViewResult - view "Index" executed in 6.1515ms.
+2025-11-17 14:05:35 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 11.0428ms
+2025-11-17 14:05:35 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:35 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 15.4544ms
+2025-11-17 14:05:38 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 14:05:38 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:38 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 14:05:38 [Information] Calculating premium for "Rakesh"
+2025-11-17 14:05:38 [Information] Premium calculated: 5760.0
+2025-11-17 14:05:38 [Information] Executing ViewResult, running view "Index".
+2025-11-17 14:05:38 [Information] Executed ViewResult - view "Index" executed in 2.5392ms.
+2025-11-17 14:05:38 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 9.8112ms
+2025-11-17 14:05:38 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:38 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 19.6076ms
+2025-11-17 14:05:39 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 14:05:39 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:39 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 14:05:39 [Information] Calculating premium for "Rakesh"
+2025-11-17 14:05:39 [Information] Premium calculated: 5760.0
+2025-11-17 14:05:39 [Information] Executing ViewResult, running view "Index".
+2025-11-17 14:05:39 [Information] Executed ViewResult - view "Index" executed in 0.432ms.
+2025-11-17 14:05:39 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 1.4592ms
+2025-11-17 14:05:39 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:39 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 2.5578ms
+2025-11-17 14:05:40 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 98
+2025-11-17 14:05:40 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:40 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 14:05:40 [Information] Calculating premium for "Rakesh"
+2025-11-17 14:05:40 [Information] Premium calculated: 5760.0
+2025-11-17 14:05:40 [Information] Executing ViewResult, running view "Index".
+2025-11-17 14:05:40 [Information] Executed ViewResult - view "Index" executed in 0.2662ms.
+2025-11-17 14:05:40 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 1.1719ms
+2025-11-17 14:05:40 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 14:05:40 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 1.6482ms
+2025-11-17 14:06:24 [Information] Application is shutting down...

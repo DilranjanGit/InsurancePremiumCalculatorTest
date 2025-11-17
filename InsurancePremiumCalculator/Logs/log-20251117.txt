@@ -1,0 +1,59 @@
+2025-11-17 11:58:24 [Information] User profile is available. Using '"C:\Users\dkumarsi\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-17 11:58:24 [Warning] The WebRootPath was not found: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator\wwwroot". Static files may be unavailable.
+2025-11-17 11:58:24 [Information] Now listening on: "https://localhost:5001"
+2025-11-17 11:58:24 [Information] Application started. Press Ctrl+C to shut down.
+2025-11-17 11:58:24 [Information] Hosting environment: "Production"
+2025-11-17 11:58:24 [Information] Content root path: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator"
+2025-11-17 11:59:27 [Information] User profile is available. Using '"C:\Users\dkumarsi\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-17 11:59:27 [Warning] The WebRootPath was not found: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator\wwwroot". Static files may be unavailable.
+2025-11-17 11:59:28 [Information] Now listening on: "https://localhost:5001"
+2025-11-17 11:59:28 [Information] Application started. Press Ctrl+C to shut down.
+2025-11-17 11:59:28 [Information] Hosting environment: "Production"
+2025-11-17 11:59:28 [Information] Content root path: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator"
+2025-11-17 11:59:42 [Information] User profile is available. Using '"C:\Users\dkumarsi\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-17 11:59:42 [Warning] The WebRootPath was not found: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator\wwwroot". Static files may be unavailable.
+2025-11-17 11:59:43 [Information] Now listening on: "https://localhost:5001"
+2025-11-17 11:59:43 [Information] Application started. Press Ctrl+C to shut down.
+2025-11-17 11:59:43 [Information] Hosting environment: "Production"
+2025-11-17 11:59:43 [Information] Content root path: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator"
+2025-11-17 12:02:06 [Information] User profile is available. Using '"C:\Users\dkumarsi\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-17 12:02:06 [Warning] The WebRootPath was not found: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator\wwwroot". Static files may be unavailable.
+2025-11-17 12:02:06 [Information] Now listening on: "http://localhost:5000"
+2025-11-17 12:02:06 [Information] Application started. Press Ctrl+C to shut down.
+2025-11-17 12:02:06 [Information] Hosting environment: "Production"
+2025-11-17 12:02:06 [Information] Content root path: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator"
+2025-11-17 12:02:14 [Information] Request starting "HTTP/1.1" "GET" "http"://"localhost:5000""""/Premium/Index""" - null null
+2025-11-17 12:02:14 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 12:02:14 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index()" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 12:02:14 [Information] Executing ViewResult, running view "Index".
+2025-11-17 12:02:14 [Information] Executed ViewResult - view "Index" executed in 102.4374ms.
+2025-11-17 12:02:14 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 170.5419ms
+2025-11-17 12:02:14 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 12:02:14 [Information] Request finished "HTTP/1.1" "GET" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 258.1454ms
+2025-11-17 12:02:40 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 122
+2025-11-17 12:02:40 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 12:02:40 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 12:02:40 [Information] Calculating premium for "Dilranjan"
+2025-11-17 12:02:40 [Information] Premium calculated: 3960000000000000000000000.0
+2025-11-17 12:02:40 [Information] Executing ViewResult, running view "Index".
+2025-11-17 12:02:40 [Information] Executed ViewResult - view "Index" executed in 14.1783ms.
+2025-11-17 12:02:40 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 59.9465ms
+2025-11-17 12:02:40 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 12:02:40 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 84.4685ms
+2025-11-17 12:02:51 [Information] Request starting "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - "application/x-www-form-urlencoded" 104
+2025-11-17 12:02:51 [Information] Executing endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 12:02:51 [Information] Route matched with "{action = \"Index\", controller = \"Premium\"}". Executing controller action with signature "Microsoft.AspNetCore.Mvc.IActionResult Index(InsuranceInput)" on controller "PremiumController" ("InsurancePremiumCalculator").
+2025-11-17 12:02:51 [Information] Calculating premium for "Dilranjan"
+2025-11-17 12:02:51 [Information] Premium calculated: 3960000.0
+2025-11-17 12:02:51 [Information] Executing ViewResult, running view "Index".
+2025-11-17 12:02:51 [Information] Executed ViewResult - view "Index" executed in 1.812ms.
+2025-11-17 12:02:51 [Information] Executed action "PremiumController.Index (InsurancePremiumCalculator)" in 5.6121ms
+2025-11-17 12:02:51 [Information] Executed endpoint '"PremiumController.Index (InsurancePremiumCalculator)"'
+2025-11-17 12:02:51 [Information] Request finished "HTTP/1.1" "POST" "http"://"localhost:5000""""/Premium/Index""" - 200 null "text/html; charset=utf-8" 7.8015ms
+2025-11-17 12:30:28 [Information] Application is shutting down...
+2025-11-17 13:42:26 [Information] User profile is available. Using '"C:\Users\dkumarsi\AppData\Local\ASP.NET\DataProtection-Keys"' as key repository and Windows DPAPI to encrypt keys at rest.
+2025-11-17 13:42:26 [Warning] The WebRootPath was not found: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator\wwwroot". Static files may be unavailable.
+2025-11-17 13:42:26 [Information] Now listening on: "https://localhost:5001"
+2025-11-17 13:42:26 [Information] Application started. Press Ctrl+C to shut down.
+2025-11-17 13:42:26 [Information] Hosting environment: "Production"
+2025-11-17 13:42:26 [Information] Content root path: "C:\Users\dkumarsi\Downloads\InsurancePremiumCalculator\InsurancePremiumCalculator"

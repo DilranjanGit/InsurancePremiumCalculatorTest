@@ -1,0 +1,33 @@
+@model InsuranceInput
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Insurance Premium Calculator</title>
+</head>
+<body>
+    <h2>Insurance Premium Calculator</h2>
+    <form method="post">
+        <label>Name:</label><input type="text" name="Name" value="@Model.Name" required /><br/>
+        <label>Age Next Birthday:</label><input type="number" name="AgeNextBirthday" value="@Model.AgeNextBirthday" required /><br/>
+        <label>Date of Birth (MM/YYYY):</label><input type="text" name="DateOfBirth" value="@Model.DateOfBirth" required /><br/>
+        <label>Occupation:</label>
+        <select name="OccupationRating" required>
+            @foreach (var occ in ViewBag.Occupations)
+            {
+                <option value="@occ.Rating" @(Model.OccupationRating == occ.Rating ? "selected" : "")>@occ.Name</option>
+            }
+        </select><br/>
+        <label>Death Sum Insured:</label><input type="number" name="DeathSumInsured" value="@Model.DeathSumInsured" required /><br/>
+        <button type="submit">Calculate Premium</button>
+    </form>
+
+    @if (ViewBag.Premium != null)
+    {
+        <h3>Monthly Premium: @ViewBag.Premium</h3>
+    }
+    @if (ViewBag.Error != null)
+    {
+        <h3 style="color:red;">@ViewBag.Error</h3>
+    }
+</body>
+</html>
