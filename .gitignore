@@ -5,6 +5,12 @@ bin/
 obj/
 Debug/
 Release/
+InsurancePremiumCalculator/bin/
+InsurancePremiumCalculator/obj/
+InsurancePremiumCalculator/bin/Debug/
+InsurancePremiumCalculator/bin/Release/
+InsurancePremiumCalculator/obj/Debug/
+InsurancePremiumCalculator/obj/Release/
 
 # User-specific files
 *.user
