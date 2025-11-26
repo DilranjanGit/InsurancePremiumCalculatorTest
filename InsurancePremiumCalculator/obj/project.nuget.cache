@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "w85aTE17wGk=",
+  "dgSpecHash": "PG9uAR8WOsM=",
   "success": true,
-  "projectFilePath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj",
+  "projectFilePath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dkumarsi\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\dkumarsi\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",

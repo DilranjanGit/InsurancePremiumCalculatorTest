@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsurancePremiumCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fad9498eb8b66904113ca309f883bd8d19827318")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c8adc8bedfe849827308939d9c6066b607dd5124")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsurancePremiumCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsurancePremiumCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

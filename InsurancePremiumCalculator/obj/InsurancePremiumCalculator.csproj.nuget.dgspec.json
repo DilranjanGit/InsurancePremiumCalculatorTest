@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj": {}
+    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj": {
+    "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj",
+        "projectUniqueName": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj",
         "projectName": "InsurancePremiumCalculator",
-        "projectPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\InsurancePremiumCalculator.csproj",
+        "projectPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\InsurancePremiumCalculator.csproj",
         "packagesPath": "C:\\Users\\dkumarsi\\.nuget\\packages\\",
-        "outputPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\insurancepremiumcalculator\\obj\\",
+        "outputPath": "C:\\Dilranjan\\OneDrive - Capgemini\\Source Code\\InsurancePremiumCalculatorTest\\InsurancePremiumCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dkumarsi\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -96,7 +96,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.306/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.307/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
