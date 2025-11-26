@@ -1,0 +1,54 @@
+# .gitignore for ASP.NET Core, Visual Studio, and Windows
+
+# Build results
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# VS Code settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Logs
+Logs/
+*.log
+
+# Rider
+.idea/
+*.sln.iml
+
+# NuGet
+*.nupkg
+.nuget/
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Others
+*.vspscc
+*.vssscc
+_ReSharper*/
+
+# Local test results
+TestResults/
+
+# Azure
+*.azure*
+
+# OneDrive temp files
+~$*
+
+# Exclude system files
+# (already covered above, but explicitly for clarity)
+.DS_Store
+Thumbs.db
+
+# End of file
